@@ -3,7 +3,7 @@ import Nav from "./Components/nav";
 
 const App = () => {
   return(    
-    <div className="bg-slate-900">
+    <div className="bg-amber-500">
       <Nav/>
     </div>
   );
